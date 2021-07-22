@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @yunfang06
-- 👀 I’m interested in economics and global issues
-- 🌱 I’m currently learning Data Science-Foundations using R
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# hello world
+
+Hi humans,
+
+Yunfang here, I am interested in economics with relevant issues and tools 
+I'm now learning the course Data Science Foundations Using R and struggling with its practice
 
 <!---
 yunfang06/yunfang06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
